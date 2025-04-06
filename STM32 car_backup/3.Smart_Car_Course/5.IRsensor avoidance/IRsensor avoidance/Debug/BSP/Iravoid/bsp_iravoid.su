@@ -1,0 +1,2 @@
+../BSP/Iravoid/bsp_iravoid.c:9:10:Adc_Get_Iravoid	32	static
+../BSP/Iravoid/bsp_iravoid.c:31:6:Get_Iravoid_Data	16	static

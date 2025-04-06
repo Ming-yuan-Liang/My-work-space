@@ -1,0 +1,2 @@
+../BSP/ultrasonic/app_ultrasonic.c:135:6:Ultrasonic_avoidance	7
+../BSP/ultrasonic/app_ultrasonic.c:184:6:Ultrasonic_follow	4

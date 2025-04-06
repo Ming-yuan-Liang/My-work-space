@@ -1,0 +1,4 @@
+../BSP/VOL_detect/bsp_vol.c:3:10:Get_BAT	2
+../BSP/VOL_detect/bsp_vol.c:22:10:Adc_Get_Average	3
+../BSP/VOL_detect/bsp_vol.c:43:7:Adc_Get_Measure_Volotage	1
+../BSP/VOL_detect/bsp_vol.c:54:7:Adc_Get_Battery_Volotage	1

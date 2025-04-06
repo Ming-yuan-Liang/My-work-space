@@ -1,0 +1,2 @@
+../BSP/bsp.c:13:6:BSP_Init	1
+../BSP/bsp.c:35:6:BSP_Loop	4

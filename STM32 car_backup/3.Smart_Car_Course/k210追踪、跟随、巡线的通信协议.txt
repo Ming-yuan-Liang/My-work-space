@@ -1,0 +1,3 @@
+$XXXYYY#
+前面XXX代表X
+后面YYY代表Y

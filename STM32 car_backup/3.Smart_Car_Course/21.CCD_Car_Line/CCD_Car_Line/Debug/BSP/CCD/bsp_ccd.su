@@ -1,0 +1,7 @@
+../BSP/CCD/bsp_ccd.c:12:10:Get_Adc_CCD	32	static
+../BSP/CCD/bsp_ccd.c:34:6:Dly_us	16	static
+../BSP/CCD/bsp_ccd.c:47:6:RD_TSL	16	static
+../BSP/CCD/bsp_ccd.c:75:6:Deal_Data_CCD	8	static
+../BSP/CCD/bsp_ccd.c:81:6:Find_CCD_Median	4	static
+../BSP/CCD/bsp_ccd.c:122:10:CCD_Get_ADC_128X32	16	static
+../BSP/CCD/bsp_ccd.c:134:6:OLED_Show_CCD_Image	24	static

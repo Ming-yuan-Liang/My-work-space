@@ -1,0 +1,3 @@
+../BSP/delay/delay.c:6:6:Delay_Init	4	static
+../BSP/delay/delay.c:19:6:Delay_us	40	static
+../BSP/delay/delay.c:55:6:Delay_ms	16	static

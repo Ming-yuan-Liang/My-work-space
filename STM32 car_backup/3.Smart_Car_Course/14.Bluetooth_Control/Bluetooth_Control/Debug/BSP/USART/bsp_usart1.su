@@ -1,0 +1,2 @@
+../BSP/USART/bsp_usart1.c:11:1:__io_putchar	16	static
+../BSP/USART/bsp_usart1.c:23:6:USART1_Send	16	static

@@ -1,0 +1,6 @@
+../BSP/Bluetooth/app_bluetooth.c:12:6:USE_Bluetooth_Control	8	static
+../BSP/Bluetooth/app_bluetooth.c:44:6:Send_Msg	48	static
+../BSP/Bluetooth/app_bluetooth.c:61:6:OLED_SHOW_BAT	8	static
+../BSP/Bluetooth/app_bluetooth.c:68:6:OLED_SHOW_Car_Speed	8	static
+../BSP/Bluetooth/app_bluetooth.c:75:6:OLED_SHOW_DIS	8	static
+../BSP/Bluetooth/app_bluetooth.c:82:6:OLED_SHOW_IRDIS	16	static

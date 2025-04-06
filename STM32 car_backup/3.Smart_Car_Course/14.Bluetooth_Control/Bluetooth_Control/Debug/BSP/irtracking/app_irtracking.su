@@ -1,0 +1,2 @@
+../BSP/irtracking/app_irtracking.c:15:6:car_irtrack	8	static
+../BSP/irtracking/app_irtracking.c:48:5:GetLineWalking_Data	16	static

@@ -1,0 +1,3 @@
+../BSP/Iravoid/bsp_iravoid.c:8:6:IR_SWitch	16	static
+../BSP/Iravoid/bsp_iravoid.c:27:10:Adc_Get_Iravoid	32	static
+../BSP/Iravoid/bsp_iravoid.c:49:6:Get_Iravoid_Data	16	static

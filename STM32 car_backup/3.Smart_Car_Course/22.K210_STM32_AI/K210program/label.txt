@@ -1,0 +1,11 @@
+﻿1   red
+2   green
+3   school
+4   walk
+5   one
+6   right
+7   two
+8   freeSpeed
+9   left
+10 limitSpeed
+11 horn
